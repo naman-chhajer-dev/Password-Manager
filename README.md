@@ -100,6 +100,18 @@ Password Manager/
 ├── Style.css
 └── Web.config
 
+
+## Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### User Dashboard
+![User Dashboard](screenshots/user-dashboard.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
 ## Documentation
 
 The complete project documentation is available in:
